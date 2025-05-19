@@ -21,7 +21,7 @@ I'm a passionate and versatile full-stack developer currently studying computer 
 
 ### 📚 Recent Projects
 
-#### 🔗 (Maison du Maghreb – Artisanat Collaboration Platform](https://github.com/Heythaam/3A-PIDEV-maison-du-maghreb)
+#### 🔗 [Maison du Maghreb – Artisanat Collaboration Platform](https://github.com/Heythaam/3A-PIDEV-maison-du-maghreb)
 > A multi-platform web & desktop solution promoting North African craftsmanship.  
 > ✔️ Features: Dual CRUD modules in Symfony & JavaFX, AI-powered chatbot, QR code participation system, budget estimation via Python API  
 > 🛠️ Technologies: Symfony 6, JavaFX, PHP 8, Python 3.11, MySQL, Doctrine ORM, OpenAI API, QRGen, Bootstrap, Maven, Git
