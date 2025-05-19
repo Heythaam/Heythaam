@@ -55,8 +55,11 @@ I'm a passionate and versatile full-stack developer currently studying computer 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heythaam&show_icons=true&theme=react" alt="Heythaam GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heythaam&layout=compact&theme=react" alt="Heythaam languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Heythaam&show_icons=true&theme=react&hide_border=true" alt="Heythaam GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heythaam&layout=compact&theme=react&hide_border=true" alt="Heythaam top languages" />
 </p>
 
 ---
