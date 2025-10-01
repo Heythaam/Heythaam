@@ -41,7 +41,7 @@ Je suis un développeur full-stack passionné et polyvalent, actuellement étudi
 
 ---
 
-#### 🔗 [Tableau de Bord d’Analyse Numérique](https://github.com/Heythaam/Numerical-Analysis-Dashboard)  
+#### 🔗 [Tableau de Bord d’Analyse Numérique](https://github.com/Heythaam/Tableau-de-Bord-Interactif-pour-l-Enseignement-de-l-Analyse-Num-rique)  
 > Une plateforme éducative interactive pour l’enseignement et la pratique des méthodes d’analyse numérique.  
 > ✔️ Fonctionnalités : Animations pas-à-pas (Gauss, Jacobi, Newton), quiz générés par IA, saisie dynamique de matrices, visualisations interactives  
 > 🛠️ Technologies : Angular 19, Spring Boot, Java 21, Maven, MathJax, Manim, Gemini API  
