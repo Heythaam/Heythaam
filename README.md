@@ -7,8 +7,6 @@
 
 Je suis un développeur full-stack passionné et polyvalent, actuellement étudiant en ingénierie informatique à **ESPRIT**, Tunisie.  
 
-🔍 Je suis activement **à la recherche d’un stage full-stack**, particulièrement autour de **Spring Boot** et **Angular**, où je pourrai mettre en pratique mes compétences techniques et contribuer à des projets à fort impact.  
-
 ---
 
 ### 🛠️ Langages et Outils
