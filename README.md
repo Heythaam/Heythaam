@@ -37,7 +37,7 @@ Je suis un développeur full-stack passionné et polyvalent, actuellement étudi
 #### 🔗 [AutoCV Generator](https://github.com/Heythaam/AutoCV-Generator)  
 > Générateur de CV intelligent créant automatiquement des candidatures adaptées selon le profil et l’offre visée.  
 > ✔️ Fonctionnalités : Modèles LaTeX optimisés ATS, extraction automatique des compétences, personnalisation selon le poste  
-> 🛠️ Technologies : Python, LaTeX, FastAPI, OpenAI API, Angular  
+> 🛠️ Technologies : Angular 19, Spring Boot, Java 21, Maven, MathJax, Gemini API, LaTeX, Angular
 
 ---
 
