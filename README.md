@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Haythem</h1>
-<h3 align="center">💻 Full-Stack Developer | 🎓 Computer Science Engineering Student at ESPRIT</h3>
+<h1 align="center">Salut 👋, je suis Haythem</h1>
+<h3 align="center">💻 Développeur Full-Stack | 🎓 Étudiant en Ingénierie Informatique à ESPRIT</h3>
 
 ---
 
-### 🌟 About Me
+### 🌟 À propos de moi
 
-I'm a passionate and versatile full-stack developer currently studying computer science engineering at **ESPRIT**, Tunisia.
+Je suis un développeur full-stack passionné et polyvalent, actuellement étudiant en ingénierie informatique à **ESPRIT**, Tunisie.  
 
-🔍 I'm actively **seeking a full-stack internship**, particularly involving **Spring Boot** and **Angular**, where I can apply my technical skills and contribute to impactful projects.
+🔍 Je suis activement **à la recherche d’un stage full-stack**, particulièrement autour de **Spring Boot** et **Angular**, où je pourrai mettre en pratique mes compétences techniques et contribuer à des projets à fort impact.  
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Langages et Outils
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
@@ -34,47 +34,62 @@ I'm a passionate and versatile full-stack developer currently studying computer 
 
 ---
 
-### 📚 Recent Projects
+### 📚 Projets récents
 
-#### 🔗 [Maison du Maghreb – Artisanat Collaboration Platform](https://github.com/Heythaam/3A-PIDEV-maison-du-maghreb)
-> A multi-platform web & desktop solution promoting North African craftsmanship.  
-> ✔️ Features: Dual CRUD modules in Symfony & JavaFX, AI-powered chatbot, QR code participation system, budget estimation via Python API  
-> 🛠️ Technologies: Symfony 6, JavaFX, PHP 8, Python 3.11, MySQL, Doctrine ORM, OpenAI API, QRGen, Bootstrap, Maven, Git
-
-
-
-#### 🔗 [5adamni – Job Search Platform](https://github.com/Heythaam/Projet2A-5adamni)
-> A social-style platform for job seekers to connect and communicate.  
-> ✔️ Features: Post creation, comment system, voice-to-text/text-to-speech accessibility  
-> 🛠️ Technologies: PHP, JavaScript, CSS, MVC
+#### 🔗 [AutoCV Generator](https://github.com/Heythaam/AutoCV-Generator)  
+> Générateur de CV intelligent créant automatiquement des candidatures adaptées selon le profil et l’offre visée.  
+> ✔️ Fonctionnalités : Modèles LaTeX optimisés ATS, extraction automatique des compétences, personnalisation selon le poste  
+> 🛠️ Technologies : Python, LaTeX, FastAPI, OpenAI API, Angular  
 
 ---
 
-### 🧰 Tech Stack
+#### 🔗 [Tableau de Bord d’Analyse Numérique](https://github.com/Heythaam/Numerical-Analysis-Dashboard)  
+> Une plateforme éducative interactive pour l’enseignement et la pratique des méthodes d’analyse numérique.  
+> ✔️ Fonctionnalités : Animations pas-à-pas (Gauss, Jacobi, Newton), quiz générés par IA, saisie dynamique de matrices, visualisations interactives  
+> 🛠️ Technologies : Angular 19, Spring Boot, Java 21, Maven, MathJax, Manim, Gemini API  
 
-| Backend | Frontend | Dev Tools | DB |
-|--------|---------|----------|----|
+---
+
+#### 🔗 [Maison du Maghreb – Plateforme de Collaboration Artisanale](https://github.com/Heythaam/3A-PIDEV-maison-du-maghreb)  
+> Une solution web & desktop multiplateforme promouvant l’artisanat nord-africain.  
+> ✔️ Fonctionnalités : Modules CRUD en Symfony & JavaFX, chatbot IA, système de participation via QR code, estimation budgétaire via API Python  
+> 🛠️ Technologies : Symfony 6, JavaFX, PHP 8, Python 3.11, MySQL, Doctrine ORM, OpenAI API, QRGen, Bootstrap, Maven, Git  
+
+---
+
+#### 🔗 [5adamni – Plateforme de Recherche d’Emploi](https://github.com/Heythaam/Projet2A-5adamni)  
+> Une plateforme sociale permettant aux chercheurs d’emploi de se connecter et d’échanger.  
+> ✔️ Fonctionnalités : Création de publications, système de commentaires, accessibilité voix-texte / texte-voix  
+> 🛠️ Technologies : PHP, JavaScript, CSS, MVC  
+
+---
+
+
+### 🧰 Stack Technique
+
+| Backend | Frontend | Outils Dev | Base de Données |
+|---------|----------|------------|-----------------|
 | Spring Boot | Angular | Git, GitHub | MySQL |
 | Symfony (PHP) | JavaFX, FlutterFlow | Postman, VS Code, IntelliJ | phpMyAdmin |
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Me Contacter
 
-- 📧 Email: **haithem.hammami@esprit.tn**
-- 💼 LinkedIn: [My profile](https://www.linkedin.com/in/heytham-hammami-6a9733248/)
-- 🗣️ Languages: Arabic 🇹🇳 | French 🇫🇷 | English 🇬🇧
+- 📧 Email : **haithem.hammami@esprit.tn**  
+- 💼 LinkedIn : [Mon profil](https://www.linkedin.com/in/heytham-hammami-6a9733248/)  
+- 🗣️ Langues : Arabe 🇹🇳 | Français 🇫🇷 | Anglais 🇬🇧  
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heythaam&show_icons=true&theme=react&hide_border=true" alt="Heythaam GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Heythaam&show_icons=true&theme=react&hide_border=true" alt="Statistiques GitHub Heythaam" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heythaam&layout=compact&theme=react&hide_border=true" alt="Heythaam top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heythaam&layout=compact&theme=react&hide_border=true" alt="Langages principaux Heythaam" />
 </p>
 
 ---
