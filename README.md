@@ -37,14 +37,23 @@ Je suis un développeur full-stack passionné et polyvalent, actuellement étudi
 #### 🔗 [AutoCV Generator](https://github.com/Heythaam/AutoCV-Generator)  
 > Générateur de CV intelligent créant automatiquement des candidatures adaptées selon le profil et l’offre visée.  
 > ✔️ Fonctionnalités : Modèles LaTeX optimisés ATS, extraction automatique des compétences, personnalisation selon le poste  
-> 🛠️ Technologies : Angular 19, Spring Boot, Java 21, Maven, MathJax, Gemini API, LaTeX, Angular
+🛠️ **Technologies :**  
+- **Frontend :** Angular 19, Bootstrap, TypeScript  
+- **Backend :** Spring Boot 3, Spring Security (JWT Auth & Authorization), Spring Data JPA, Hibernate ORM, Spring Validation, Lombok  
+- **Infra & Base de données :** REST API, Maven, MySQL 
+- **IA & Outils :** OpenAI/Gemini API, LaTeX (ATS-ready templates)  
 
 ---
 
 #### 🔗 [Tableau de Bord d’Analyse Numérique](https://github.com/Heythaam/Tableau-de-Bord-Interactif-pour-l-Enseignement-de-l-Analyse-Num-rique)  
 > Une plateforme éducative interactive pour l’enseignement et la pratique des méthodes d’analyse numérique.  
 > ✔️ Fonctionnalités : Animations pas-à-pas (Gauss, Jacobi, Newton), quiz générés par IA, saisie dynamique de matrices, visualisations interactives  
-> 🛠️ Technologies : Angular 19, Spring Boot, Java 21, Maven, MathJax, Manim, Gemini API  
+🛠️ **Technologies :**  
+- **Frontend :** Angular 19, Bootstrap, TypeScript, MathJax  
+- **Backend :** Spring Boot 3, Spring MVC (REST Controllers), Spring Security (JWT), Spring Data JPA, Hibernate ORM, Lombok, Spring Validation  
+- **Infra & Base de données :** Maven, MySQL  
+- **Éducation & Visualisation :** Manim (animations), MathJax (formules mathématiques)  
+- **IA & Outils :** Gemini API (quiz générés par IA)  
 
 ---
 
