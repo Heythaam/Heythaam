@@ -32,7 +32,7 @@ Je suis un développeur full-stack passionné et polyvalent, actuellement étudi
 
 </p>
 
-<h2 align="center">DevOps & Cloud</h2>
+<h2 align="center">DevOps</h2>
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
