@@ -110,15 +110,13 @@ Je suis un développeur full-stack passionné et polyvalent, actuellement étudi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=heythaam&show_icons=true&theme=react&hide_border=true&v=1"
-    alt="Statistiques GitHub Heythaam"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heythaam&show_icons=true&theme=react&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heythaam&layout=compact&theme=react&hide_border=true&v=1"
-    alt="Langages principaux Heythaam"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heythaam&layout=compact&theme=react&hide_border=true"
   />
 </p>
 
