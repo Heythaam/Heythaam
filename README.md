@@ -87,14 +87,6 @@ Je suis un développeur full-stack passionné et polyvalent, actuellement étudi
 
 ---
 
-#### 🔗 [5adamni – Plateforme de Recherche d’Emploi](https://github.com/Heythaam/Projet2A-5adamni)  
-> Une plateforme sociale permettant aux chercheurs d’emploi de se connecter et d’échanger.  
-> ✔️ Fonctionnalités : Création de publications, système de commentaires, accessibilité voix-texte / texte-voix  
-> 🛠️ Technologies : PHP, JavaScript, CSS, MVC  
-
----
-
-
 ### 🧰 Stack Technique
 
 | Backend | Frontend | Outils Dev | Base de Données |
