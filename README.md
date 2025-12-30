@@ -57,6 +57,8 @@ Je suis un développeur full-stack passionné et polyvalent, actuellement étudi
 - **Backend :** Spring Boot, Spring Data JPA, Hibernate ORM 
 - **Infra, Base de données & Qualité :** Maven, Docker, Jenkins, SonarQube, PostgreSQL
 
+---
+
 #### 🔗 [AutoCV Generator](https://github.com/Heythaam/AutoCV-Generator)  
 > Générateur de CV intelligent créant automatiquement des candidatures adaptées selon le profil et l’offre visée.  
 > ✔️ Fonctionnalités : Modèles LaTeX optimisés ATS, extraction automatique des compétences, personnalisation selon le poste  
