@@ -115,25 +115,6 @@ Plateforme éducative interactive pour l'enseignement et la pratique des méthod
 
 ---
 
-### 🎨 [Maison du Maghreb - Plateforme Artisanale](https://github.com/Heythaam/3A-PIDEV-maison-du-maghreb)
-
-Solution multiplateforme (web & desktop) dédiée à la promotion et à la vente de l'artisanat nord-africain, avec fonctionnalités de collaboration et d'estimation budgétaire.
-
-**✨ Fonctionnalités clés :**
-- Modules CRUD complets (Symfony & JavaFX)
-- Chatbot intelligent d'assistance client
-- Système de participation via QR code
-- Estimation budgétaire automatique via API Python
-
-**🔧 Technologies :**
-- **Web :** Symfony 6, PHP 8, Bootstrap
-- **Desktop :** JavaFX
-- **IA :** OpenAI API
-- **Outils :** QRGen, Maven, Python 3.11
-- **Base de données :** MySQL, Doctrine ORM
-
----
-
 ## 📊 Statistiques GitHub
 
 <p align="center">
