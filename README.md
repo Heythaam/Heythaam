@@ -167,7 +167,7 @@ Solution multiplateforme (web & desktop) dédiée à la promotion et à la vente
 
 <p align="center">
   📧 <a href="mailto:haithem.hammami@esprit.tn">haithem.hammami@esprit.tn</a> | 
-  💼 <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/">LinkedIn</a> |
+  💼 <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/">LinkedIn</a>
 </p>
 
 ---
