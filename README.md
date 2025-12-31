@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Haythem</h1>
+<h1 align="center">Haithem Hammami</h1>
 <h3 align="center">💻 Développeur Full-Stack | 🎓 Étudiant en Ingénierie Informatique à ESPRIT</h3>
 
 <p align="center">
