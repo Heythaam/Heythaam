@@ -140,8 +140,8 @@ Solution multiplateforme (web & desktop) dédiée à la promotion et à la vente
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heythaam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heythaam&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Heythaam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heythaam&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -149,7 +149,7 @@ Solution multiplateforme (web & desktop) dédiée à la promotion et à la vente
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heythaam&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heythaam&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </p>
 
 ---
