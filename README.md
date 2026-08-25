@@ -129,7 +129,6 @@ Plateforme d'apprentissage de l'anglais basée sur une **architecture microservi
 <p align="center">
   📧 <a href="mailto:haithem.hammami@esprit.tn">haithem.hammami@esprit.tn</a> | 
   💼 <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/">LinkedIn</a> |
-  📱 +216 93 647 848
 </p>
 
 ---
