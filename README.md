@@ -12,8 +12,7 @@
 
 🔹 Conception de pipelines MLOps end-to-end (Airflow, MLflow, DVC, FastAPI)  
 🔹 Développement d'applications B2B complexes avec Angular & Spring Boot  
-🔹 Maîtrise des workflows DevOps (Docker, Jenkins, Kubernetes)  
-🔹 Intégration d'APIs d'IA (OpenAI, Gemini) pour des fonctionnalités avancées
+🔹 Maîtrise des workflows DevOps (Docker, Jenkins, Kubernetes)
 
 ---
 
@@ -97,32 +96,6 @@ Plateforme d'apprentissage de l'anglais basée sur une **architecture microservi
 - Pipeline DevOps complet : CI/CD Jenkins, Docker, Kubernetes, SonarQube
 
 **🔧 Technologies :** Spring Boot, Angular, MySQL, Flask, Gemini, Jenkins, Docker, Kubernetes, SonarQube
-
----
-
-### 🏢 [Codex — Plateforme de Facturation B2B](https://github.com/Heythaam/AutoCV-Generator)
-
-Plateforme de facturation professionnelle conforme aux réglementations comptables **françaises et allemandes**.
-
-**✨ Fonctionnalités clés :**
-- Génération automatique de factures conformes aux normes légales
-- Gestion multi-devises et multi-langues
-- Tableaux de bord analytiques en temps réel
-
-**🔧 Technologies :** Angular 18, Spring Boot 3, Spring Data JPA, PostgreSQL, Docker, Jenkins, SonarQube
-
----
-
-### 📝 [AutoCV Generator — Générateur de CV Intelligent](https://github.com/Heythaam/AutoCV-Generator)
-
-Application web générant des CV optimisés pour les systèmes **ATS** via IA.
-
-**✨ Fonctionnalités clés :**
-- Extraction intelligente des compétences via OpenAI & Gemini
-- Modèles LaTeX professionnels, export PDF & DOCX
-- Personnalisation automatique selon le poste visé
-
-**🔧 Technologies :** Angular 19, Spring Boot 3, Spring Security (JWT), OpenAI API, Gemini API, LaTeX, MySQL
 
 ---
 
