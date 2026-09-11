@@ -1,5 +1,5 @@
 <h1 align="center">Haithem Hammami</h1>
-<h3 align="center">💻 Développeur Full-Stack & MLOps | 🎓 Étudiant Ingénieur à ESPRIT</h3>
+<h3 align="center">Étudiant Ingénieur à ESPRIT</h3>
 
 <p align="center">
   <a href="mailto:haithem.hammami@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
