@@ -10,13 +10,13 @@
 
 Étudiant ingénieur en 3e année à **ESPRIT** (Tunisie), spécialisé en **génie logiciel**, avec une double expertise en développement **Java/Spring Boot** et en **MLOps**. Expérience concrète en conception d'architectures microservices, pipelines CI/CD et déploiement sur Kubernetes. À la recherche d'un **stage de fin d'études**.
 
-🔹 Conception de pipelines MLOps end-to-end (Airflow, MLflow, DVC, FastAPI)  
-🔹 Développement d'applications B2B complexes avec Angular & Spring Boot  
-🔹 Maîtrise des workflows DevOps (Docker, Jenkins, Kubernetes)
+- Conception de pipelines MLOps end-to-end (Airflow, MLflow, DVC, FastAPI)
+- Développement d'applications B2B complexes avec Angular & Spring Boot
+- Maîtrise des workflows DevOps (Docker, Jenkins, Kubernetes)
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Frontend
 <p>
@@ -69,55 +69,57 @@
 
 ---
 
-## 💼 Expérience Professionnelle
+## Expérience Professionnelle
 
-### 🤖 Stage MLOps — TALYS *(Juil 2026 – Août 2026)*
+### Stage MLOps — TALYS *(Juil 2026 – Août 2026)*
 
 Pipeline MLOps end-to-end de **détection de fraude bancaire** sur 6,3M de transactions (PaySim).
 
-**✨ Réalisations clés :**
+**Réalisations clés :**
 - Comparaison de 5 modèles ML (LogisticRegression, DecisionTree, RandomForest, XGBoost, LightGBM) avec suivi MLflow — **RandomForest retenu** (F1 = 0.88, ROC-AUC = 0.9998)
 - Orchestration complète via **Apache Airflow** : quality gate, ingestion, prétraitement, validation, entraînement et monitoring de dérive
 - Déploiement via **API REST FastAPI** conteneurisée, avec observabilité temps réel (Prometheus, Grafana, Streamlit)
 - Pipeline **CI/CD GitHub Actions** 4 étapes : lint/tests → DAG Airflow → build Docker → déploiement automatique
 - Versioning des données avec **DVC**, qualité de code zéro erreur (flake8/pylint 10.00/10)
 
-**🔧 Stack :** Python, scikit-learn, XGBoost, LightGBM, MLflow, DVC, FastAPI, Airflow, Docker, Prometheus, Grafana, GitHub Actions
+**Stack :** Python, scikit-learn, XGBoost, LightGBM, MLflow, DVC, FastAPI, Airflow, Docker, Prometheus, Grafana, GitHub Actions
 
 ---
 
-## 🚀 Projets Académiques
+## Projet Personnel
 
-### 🧠 [NexusML — Plateforme de gestion du cycle de vie ML](https://github.com/Heythaam/NexusML)
+### [NexusML — Plateforme de gestion du cycle de vie ML](https://github.com/Heythaam/NexusML)
 
 Plateforme full-stack de gestion MLOps : déclenchement de pipelines Airflow, registre de modèles MLflow, gestion des credentials et audit trail — le tout derrière une UI Angular 18 et un backend Spring Cloud microservices sécurisé par Keycloak.
 
-**✨ Fonctionnalités clés :**
-- **5 microservices Spring Boot** : Config Server, Eureka Discovery, API Gateway (WebFlux/réactif), Identity Service, Pipeline Service, Model Service
-- **Sécurité enterprise** : authentification Keycloak (OIDC/JWT), validation JWT dans la gateway, autorisation par rôles (`ADMIN`, `DATA_SCIENTIST`, `VIEWER`) via `@PreAuthorize`
-- **Chiffrement AES-256-GCM** des credentials tiers stockés en base de données
-- **Intégration dynamique** : les services Airflow/MLflow mettent à jour leurs connexions à chaud via événements RabbitMQ (`integration.updated`)
-- **Angular 18** : UI lazy-loaded par feature module, intercepteurs HTTP, guards de rôles, composants UI entièrement custom (sans librairie externe)
-- **Audit trail** complet des actions sensibles, distribué via RabbitMQ
+**Fonctionnalités clés :**
+- 5 microservices Spring Boot : Config Server, Eureka Discovery, API Gateway (WebFlux/réactif), Identity Service, Pipeline Service, Model Service
+- Sécurité enterprise : authentification Keycloak (OIDC/JWT), validation JWT dans la gateway, autorisation par rôles (`ADMIN`, `DATA_SCIENTIST`, `VIEWER`) via `@PreAuthorize`
+- Chiffrement AES-256-GCM des credentials tiers stockés en base de données
+- Intégration dynamique : les services Airflow/MLflow mettent à jour leurs connexions à chaud via événements RabbitMQ (`integration.updated`)
+- Angular 18 : UI lazy-loaded par feature module, intercepteurs HTTP, guards de rôles, composants UI entièrement custom (sans librairie externe)
+- Audit trail complet des actions sensibles, distribué via RabbitMQ
 
-**🔧 Stack :** Java 21, Spring Boot 4.1, Spring Cloud (Gateway, Eureka, Config), Spring Security OAuth2, RabbitMQ, PostgreSQL, Angular 18, Keycloak, SCSS/BEM
+**Stack :** Java 21, Spring Boot 4.1, Spring Cloud (Gateway, Eureka, Config), Spring Security OAuth2, RabbitMQ, PostgreSQL, Angular 18, Keycloak, SCSS/BEM
 
 ---
 
-### 📚 [JungleInEnglish — Plateforme E-learning](https://github.com/Heythaam)
+## Projets Académiques
+
+### [JungleInEnglish — Plateforme E-learning](https://github.com/Heythaam)
 
 Plateforme d'apprentissage de l'anglais basée sur une **architecture microservices**.
 
-**✨ Fonctionnalités clés :**
+**Fonctionnalités clés :**
 - Architecture microservices Spring Boot & Spring Cloud, sécurisée via **Keycloak (OAuth2)**
 - Intégration de **LLM (Gemini)** pour la génération de contenu pédagogique personnalisé
 - Pipeline DevOps complet : CI/CD Jenkins, Docker, Kubernetes, SonarQube
 
-**🔧 Technologies :** Spring Boot, Angular, MySQL, Flask, Gemini, Jenkins, Docker, Kubernetes, SonarQube
+**Stack :** Spring Boot, Angular, MySQL, Flask, Gemini, Jenkins, Docker, Kubernetes, SonarQube
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Heythaam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
@@ -130,23 +132,23 @@ Plateforme d'apprentissage de l'anglais basée sur une **architecture microservi
 
 ---
 
-## 🌍 Langues
+## Langues
 
-- 🇹🇳 **Arabe** — Langue maternelle
-- 🇫🇷 **Français** — Courant (B2)
-- 🇬🇧 **Anglais** — Professionnel — TOEIC 810/990 *(Novembre 2025)*
+- **Arabe** — Langue maternelle
+- **Français** — Courant (B2)
+- **Anglais** — Professionnel — TOEIC 810/990 *(Novembre 2025)*
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
-  💼 Ouvert aux opportunités de <strong>stage de fin d'études</strong> et de collaboration sur des projets innovants !
+  Ouvert aux opportunités de <strong>stage de fin d'études</strong> et de collaboration sur des projets innovants.
 </p>
 
 <p align="center">
-  📧 <a href="mailto:haithem.hammami@esprit.tn">haithem.hammami@esprit.tn</a> | 
-  💼 <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/">LinkedIn</a> |
+  <a href="mailto:haithem.hammami@esprit.tn">haithem.hammami@esprit.tn</a> |
+  <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/">LinkedIn</a>
 </p>
 
 ---
@@ -154,5 +156,3 @@ Plateforme d'apprentissage de l'anglais basée sur une **architecture microservi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heythaam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-<p align="center">⭐ N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration !</p>
