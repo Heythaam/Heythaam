@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -57,6 +58,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </p>
 
 ### Base de données
@@ -85,6 +87,22 @@ Pipeline MLOps end-to-end de **détection de fraude bancaire** sur 6,3M de trans
 ---
 
 ## 🚀 Projets Académiques
+
+### 🧠 [NexusML — Plateforme de gestion du cycle de vie ML](https://github.com/Heythaam/NexusML)
+
+Plateforme full-stack de gestion MLOps : déclenchement de pipelines Airflow, registre de modèles MLflow, gestion des credentials et audit trail — le tout derrière une UI Angular 18 et un backend Spring Cloud microservices sécurisé par Keycloak.
+
+**✨ Fonctionnalités clés :**
+- **5 microservices Spring Boot** : Config Server, Eureka Discovery, API Gateway (WebFlux/réactif), Identity Service, Pipeline Service, Model Service
+- **Sécurité enterprise** : authentification Keycloak (OIDC/JWT), validation JWT dans la gateway, autorisation par rôles (`ADMIN`, `DATA_SCIENTIST`, `VIEWER`) via `@PreAuthorize`
+- **Chiffrement AES-256-GCM** des credentials tiers stockés en base de données
+- **Intégration dynamique** : les services Airflow/MLflow mettent à jour leurs connexions à chaud via événements RabbitMQ (`integration.updated`)
+- **Angular 18** : UI lazy-loaded par feature module, intercepteurs HTTP, guards de rôles, composants UI entièrement custom (sans librairie externe)
+- **Audit trail** complet des actions sensibles, distribué via RabbitMQ
+
+**🔧 Stack :** Java 21, Spring Boot 4.1, Spring Cloud (Gateway, Eureka, Config), Spring Security OAuth2, RabbitMQ, PostgreSQL, Angular 18, Keycloak, SCSS/BEM
+
+---
 
 ### 📚 [JungleInEnglish — Plateforme E-learning](https://github.com/Heythaam)
 
