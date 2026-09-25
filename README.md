@@ -104,6 +104,22 @@ Plateforme full-stack de gestion MLOps : déclenchement de pipelines Airflow, re
 
 ---
 
+### [Data Lakehouse from Scratch](https://github.com/Heythaam/data-lakehouse-from-scratch)
+
+Architecture identique à Databricks, construite from scratch — fichiers Parquet bruts vers SQL sur 38M lignes, sans base de données traditionnelle.
+
+**Réalisations clés :**
+- 38,310,226 lignes NYC Taxi 2023 — pipeline idempotent, make pipeline en une commande
+- Partition pruning : 72 splits → 12 (83% des données ignorées), COUNT(*) en 0.13s à 288M lignes/s
+- Benchmark 1 vs 2 nœuds : 2 nœuds plus lent (2.85s vs 0.66s) — contention MinIO sur hardware partagé
+- Résilience testée : docker kill en pleine requête → 18 retries, échec propre et explicite
+- Dérives de schéma réelles corrigées : casse de colonnes, incompatibilité de types entre fichiers
+- Problèmes infra résolus : version Nessie incompatible, typo config silencieuse, permissions RocksDB
+
+**Stack :** MinIO, Apache Iceberg, Nessie, Trino, PyIceberg, Python
+
+---
+
 ## Projets Académiques
 
 ### [JungleInEnglish — Plateforme E-learning](https://github.com/Heythaam)
