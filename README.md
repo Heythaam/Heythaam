@@ -1,11 +1,11 @@
-# Haithem Hammami
+<h1 align="center">Haithem Hammami</h1>
 
-<p>
+<p align="center">
   <strong>Ingénieur logiciel — IA agentique, LLM et systèmes multi-agents</strong><br/>
   Élève ingénieur en dernière année, Génie Logiciel — ESPRIT (Tunis)
 </p>
 
-<p>
+<p align="center">
   <a href="mailto:haithem.hammami@esprit.tn"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
   <a href="https://github.com/Heythaam"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -28,7 +28,29 @@ Je recherche un **stage de fin d'études (PFE) en IA agentique**, à partir de d
 ### [Foundry](https://github.com/Heythaam/foundry) — Génération d'applications par IA agentique
 *Octobre 2026 – en cours*
 
-Plateforme multi-agents qui automatise le cycle de développement logiciel de bout en bout : cahier des charges → PRD → architecture → epics et user stories → code → tests → conteneurisation. Chaque phase est confiée à un agent LLM spécialisé.
+<p>
+  <img src="https://img.shields.io/badge/Statut-En_développement-21262D?style=flat-square&labelColor=161B22" alt="Statut"/>
+  <img src="https://img.shields.io/badge/Tests-900%2B_pytest-21262D?style=flat-square&labelColor=161B22" alt="Tests"/>
+  <img src="https://img.shields.io/badge/Python-asyncio-21262D?style=flat-square&labelColor=161B22&logo=python&logoColor=3776AB" alt="Python asyncio"/>
+</p>
+
+Plateforme multi-agents qui automatise le cycle de développement logiciel de bout en bout. Chaque phase est confiée à un agent LLM spécialisé, avec une validation humaine entre les étapes.
+
+```mermaid
+flowchart LR
+    A[Cahier des charges] --> B[PRD]
+    B --> C[Architecture]
+    C --> D[Epics et<br/>user stories]
+    D --> E[Code]
+    E --> F{Tests<br/>au vert ?}
+    F -- non --> E
+    F -- oui --> G[Pull Request<br/>+ CI GitHub Actions]
+    G --> H[Conteneurisation]
+
+    H1([Validation humaine]) -.-> B
+    H1 -.-> C
+    H1 -.-> D
+```
 
 - **Génération incrémentale** : code produit story par story dans des sessions d'agent isolées, avec injection du contexte (story, critères d'acceptation, architecture). Aucun commit sans tests automatisés au vert.
 - **Human-in-the-loop** : point de validation à chaque phase, revue préalable des exigences (contradictions, manques) et escalade humaine en cas d'échec.
