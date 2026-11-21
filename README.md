@@ -81,18 +81,37 @@ Plateforme d'apprentissage de l'anglais en microservices Spring Cloud, sécuris�
 
 ---
 
-## Compétences techniques
+## Stack technique
 
-| Domaine | Technologies |
-|---|---|
-| IA agentique et LLM | Systèmes multi-agents, génération de code, prompt engineering, human-in-the-loop |
-| Génie logiciel | Automatisation du SDLC, spec-driven development, tests automatisés, ADR |
-| Langages | Python, Java, TypeScript, JavaScript, SQL |
-| Backend et frontend | FastAPI, Spring Boot, Spring Cloud, Spring Security, Angular |
-| Machine learning | scikit-learn, XGBoost, PyTorch, PySpark, SHAP |
-| MLOps | MLflow, Airflow, DVC, Prometheus, Grafana |
-| DevOps | Docker, Kubernetes, GitHub Actions, Jenkins, SonarQube, AWS |
-| Bases de données | PostgreSQL, MySQL, SQLite |
+<p align="center"><strong>Langages et développement applicatif</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,fastapi,spring,hibernate,angular,sass&theme=dark" alt="Python, Java, TypeScript, JavaScript, FastAPI, Spring, Hibernate, Angular, SCSS"/>
+</p>
+
+<p align="center"><strong>IA, machine learning et données</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,postgres,mysql,sqlite&theme=dark" alt="PyTorch, scikit-learn, PostgreSQL, MySQL, SQLite"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-21262D?style=for-the-badge" alt="Multi-Agent Systems"/>
+  <img src="https://img.shields.io/badge/LLMs-21262D?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Human--in--the--Loop-21262D?style=for-the-badge" alt="Human-in-the-Loop"/>
+  <img src="https://img.shields.io/badge/PySpark-21262D?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/XGBoost-21262D?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/SHAP-21262D?style=for-the-badge" alt="SHAP"/>
+</p>
+
+<p align="center"><strong>DevOps et MLOps</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,rabbitmq,prometheus,grafana,aws&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Jenkins, Git, RabbitMQ, Prometheus, Grafana, AWS"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-21262D?style=for-the-badge&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-21262D?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/DVC-21262D?style=for-the-badge&logo=dvc&logoColor=945DD6" alt="DVC"/>
+  <img src="https://img.shields.io/badge/Keycloak-21262D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/SonarQube-21262D?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
+</p>
 
 ---
 
