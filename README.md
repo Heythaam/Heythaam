@@ -36,22 +36,6 @@ Je recherche un **stage de fin d'études (PFE) en IA agentique**, à partir de d
 
 Plateforme multi-agents qui automatise le cycle de développement logiciel de bout en bout. Chaque phase est confiée à un agent LLM spécialisé, avec une validation humaine entre les étapes.
 
-```mermaid
-flowchart LR
-    A[Cahier des charges] --> B[PRD]
-    B --> C[Architecture]
-    C --> D[Epics et<br/>user stories]
-    D --> E[Code]
-    E --> F{Tests<br/>au vert ?}
-    F -- non --> E
-    F -- oui --> G[Pull Request<br/>+ CI GitHub Actions]
-    G --> H[Conteneurisation]
-
-    H1([Validation humaine]) -.-> B
-    H1 -.-> C
-    H1 -.-> D
-```
-
 - **Génération incrémentale** : code produit story par story dans des sessions d'agent isolées, avec injection du contexte (story, critères d'acceptation, architecture). Aucun commit sans tests automatisés au vert.
 - **Human-in-the-loop** : point de validation à chaque phase, revue préalable des exigences (contradictions, manques) et escalade humaine en cas d'échec.
 - **Intégration GitHub** : création du dépôt, une branche et une Pull Request par epic, fusion conditionnée à une CI GitHub Actions réussie ; README, licence et documentation de planification générés.
