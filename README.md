@@ -1,174 +1,106 @@
-<h1 align="center">Haithem Hammami</h1>
-<h3 align="center">Étudiant Ingénieur à ESPRIT</h3>
+# Haithem Hammami
 
-<p align="center">
-  <a href="mailto:haithem.hammami@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+**Ingénieur logiciel — IA agentique, LLM et systèmes multi-agents**
+Élève ingénieur en dernière année, Génie Logiciel — ESPRIT (Tunis)
 
----
-
-Étudiant ingénieur en 3e année à **ESPRIT** (Tunisie), spécialisé en **génie logiciel**, avec une double expertise en développement **Java/Spring Boot** et en **MLOps**. Expérience concrète en conception d'architectures microservices, pipelines CI/CD et déploiement sur Kubernetes. À la recherche d'un **stage de fin d'études**.
-
-- Conception de pipelines MLOps end-to-end (Airflow, MLflow, DVC, FastAPI)
-- Développement d'applications B2B complexes avec Angular & Spring Boot
-- Maîtrise des workflows DevOps (Docker, Jenkins, Kubernetes)
+[haithem.hammami@esprit.tn](mailto:haithem.hammami@esprit.tn) · [LinkedIn](https://www.linkedin.com/in/heytham-hammami-6a9733248/) · [GitHub](https://github.com/Heythaam)
 
 ---
 
-## Stack Technique
+## Profil
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+Élève ingénieur en dernière année de Génie Logiciel à ESPRIT (école accréditée CTI), je me spécialise dans l'IA agentique et les grands modèles de langage. Mon projet principal, **Foundry**, est une plateforme où des agents IA prennent en charge la conception, le développement, les tests et la documentation d'une application à partir d'un cahier des charges, sous validation humaine à chaque étape.
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+Je m'appuie sur un socle solide en Python, FastAPI, Java/Spring, SQL, Docker et CI/CD, ainsi que sur une expérience pratique en MLOps.
 
-### Machine Learning & MLOps
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
-
-### DevOps & Outils
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-</p>
-
-### Base de données
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+Je recherche un **stage de fin d'études (PFE) en IA agentique**, à partir de début 2027.
 
 ---
 
-## Expérience Professionnelle
+## Projet principal
 
-### Stage MLOps — TALYS *(Juil 2026 – Août 2026)*
+### [Foundry](https://github.com/Heythaam/foundry) — Génération d'applications par IA agentique
+*Octobre 2026 – en cours*
 
-Pipeline MLOps end-to-end de **détection de fraude bancaire** sur 6,3M de transactions (PaySim).
+Plateforme multi-agents qui automatise le cycle de développement logiciel de bout en bout : cahier des charges → PRD → architecture → epics et user stories → code → tests → conteneurisation. Chaque phase est confiée à un agent LLM spécialisé.
 
-**Réalisations clés :**
-- Comparaison de 5 modèles ML (LogisticRegression, DecisionTree, RandomForest, XGBoost, LightGBM) avec suivi MLflow — **RandomForest retenu** (F1 = 0.88, ROC-AUC = 0.9998)
-- Orchestration complète via **Apache Airflow** : quality gate, ingestion, prétraitement, validation, entraînement et monitoring de dérive
-- Déploiement via **API REST FastAPI** conteneurisée, avec observabilité temps réel (Prometheus, Grafana, Streamlit)
-- Pipeline **CI/CD GitHub Actions** 4 étapes : lint/tests → DAG Airflow → build Docker → déploiement automatique
-- Versioning des données avec **DVC**, qualité de code zéro erreur (flake8/pylint 10.00/10)
+- **Génération incrémentale** : code produit story par story dans des sessions d'agent isolées, avec injection du contexte (story, critères d'acceptation, architecture). Aucun commit sans tests automatisés au vert.
+- **Human-in-the-loop** : point de validation à chaque phase, revue préalable des exigences (contradictions, manques) et escalade humaine en cas d'échec.
+- **Intégration GitHub** : création du dépôt, une branche et une Pull Request par epic, fusion conditionnée à une CI GitHub Actions réussie ; README, licence et documentation de planification générés.
+- **Fiabilité et traçabilité** : classification des échecs, retry avec backoff exponentiel, reprise après crash (SQLite WAL), journal d'actions append-only signé SHA-256 et versionné dans Git.
+- Plus de **900 tests** pytest.
 
-**Stack :** Python, scikit-learn, XGBoost, LightGBM, MLflow, DVC, FastAPI, Airflow, Docker, Prometheus, Grafana, GitHub Actions
+`Python` `asyncio` `LLM` `Systèmes multi-agents` `SQLite` `Docker` `GitHub Actions` `pytest`
+
+---
+
+## Expérience professionnelle
+
+### Stage Ingénieur MLOps — TALYS
+*Juillet 2026 – Août 2026*
+
+Conception d'un pipeline ML complet de détection de fraude bancaire sur 6,3 millions de transactions.
+
+- Ingestion PySpark, comparaison de cinq modèles suivie dans MLflow, explicabilité SHAP et seuil de décision optimisé selon une fonction de coût métier ; orchestration Airflow.
+- Génération de données synthétiques conformes au RGPD : simulation multi-agents, puis CWGAN (PyTorch).
+- Exposition du modèle via une API FastAPI déployée sur Kubernetes, supervisée avec Prometheus et Grafana.
+- Chaîne CI/CD GitHub Actions (lint et tests, build et push Docker, redéploiement) ; pylint 10.00/10 ; sept ADR rédigés.
+
+`Python` `FastAPI` `PySpark` `PyTorch` `XGBoost` `SHAP` `MLflow` `DVC` `Airflow` `Kubernetes` `Prometheus` `Grafana`
 
 ---
 
-## Projet Personnel
+## Autres projets
 
-### [NexusML — Plateforme de gestion du cycle de vie ML](https://github.com/Heythaam/NexusML)
+### [NexusML](https://github.com/Heythaam/NexusML) — Plateforme de gestion du cycle de vie ML
+*2026 – en cours*
 
-Plateforme full-stack de gestion MLOps : déclenchement de pipelines Airflow, registre de modèles MLflow, gestion des credentials et audit trail — le tout derrière une UI Angular 18 et un backend Spring Cloud microservices sécurisé par Keycloak.
+Application full-stack pour piloter des pipelines Airflow et un registre de modèles MLflow.
 
-**Fonctionnalités clés :**
-- 5 microservices Spring Boot : Config Server, Eureka Discovery, API Gateway (WebFlux/réactif), Identity Service, Pipeline Service, Model Service
-- Sécurité enterprise : authentification Keycloak (OIDC/JWT), validation JWT dans la gateway, autorisation par rôles (`ADMIN`, `DATA_SCIENTIST`, `VIEWER`) via `@PreAuthorize`
-- Chiffrement AES-256-GCM des credentials tiers stockés en base de données
-- Intégration dynamique : les services Airflow/MLflow mettent à jour leurs connexions à chaud via événements RabbitMQ (`integration.updated`)
-- Angular 18 : UI lazy-loaded par feature module, intercepteurs HTTP, guards de rôles, composants UI entièrement custom (sans librairie externe)
-- Audit trail complet des actions sensibles, distribué via RabbitMQ
+- Backend en microservices Spring Cloud (Config Server, Eureka, API Gateway réactive, services Identity, Pipeline et Model).
+- Sécurité Keycloak (OIDC/JWT) avec contrôle d'accès par rôles ; chiffrement AES-256-GCM des identifiants tiers.
+- Architecture événementielle RabbitMQ : rechargement à chaud des connexions Airflow/MLflow et journal d'audit distribué.
+- Frontend Angular 18 modulaire, sans bibliothèque de composants externe.
 
-**Stack :** Java 21, Spring Boot 4.1, Spring Cloud (Gateway, Eureka, Config), Spring Security OAuth2, RabbitMQ, PostgreSQL, Angular 18, Keycloak, SCSS/BEM
-
----
+`Java 21` `Spring Boot` `Spring Cloud` `Angular 18` `TypeScript` `Keycloak` `RabbitMQ` `PostgreSQL` `Docker`
 
 ### [Data Lakehouse from Scratch](https://github.com/Heythaam/data-lakehouse-from-scratch)
+*Septembre 2026*
 
-Architecture identique à Databricks, construite from scratch — fichiers Parquet bruts vers SQL sur 38M lignes, sans base de données traditionnelle.
+Lakehouse inspiré de l'architecture Databricks, construit sans base de données traditionnelle.
 
-**Réalisations clés :**
-- 38,310,226 lignes NYC Taxi 2023 — pipeline idempotent, make pipeline en une commande
-- Partition pruning : 72 splits → 12 (83% des données ignorées), COUNT(*) en 0.13s à 288M lignes/s
-- Benchmark 1 vs 2 nœuds : 2 nœuds plus lent (2.85s vs 0.66s) — contention MinIO sur hardware partagé
-- Résilience testée : docker kill en pleine requête → 18 retries, échec propre et explicite
-- Dérives de schéma réelles corrigées : casse de colonnes, incompatibilité de types entre fichiers
-- Problèmes infra résolus : version Nessie incompatible, typo config silencieuse, permissions RocksDB
+- 38,3 millions de lignes (NYC Taxi 2023) ingérées par un pipeline idempotent.
+- Requêtes SQL avec partition pruning : 83 % des données ignorées, `COUNT(*)` en 0,13 s.
+- Tests de résilience (perte d'un nœud en cours de requête) et correction de dérives de schéma réelles ; 28 tests unitaires.
 
-**Stack :** MinIO, Apache Iceberg, Nessie, Trino, PyIceberg, Python
+`MinIO` `Apache Iceberg` `Nessie` `Trino` `PyIceberg` `Python`
 
----
+### JungleInEnglish — Plateforme e-learning *(projet académique)*
 
-## Projets Académiques
-
-### [JungleInEnglish — Plateforme E-learning](https://github.com/Heythaam)
-
-Plateforme d'apprentissage de l'anglais basée sur une **architecture microservices**.
-
-**Fonctionnalités clés :**
-- Architecture microservices Spring Boot & Spring Cloud, sécurisée via **Keycloak (OAuth2)**
-- Intégration de **LLM (Gemini)** pour la génération de contenu pédagogique personnalisé
-- Pipeline DevOps complet : CI/CD Jenkins, Docker, Kubernetes, SonarQube
-
-**Stack :** Spring Boot, Angular, MySQL, Flask, Gemini, Jenkins, Docker, Kubernetes, SonarQube
+Plateforme d'apprentissage de l'anglais en microservices Spring Cloud, sécurisée par Keycloak, avec génération de contenu pédagogique via LLM (Gemini) et chaîne DevOps Jenkins, Docker, Kubernetes et SonarQube.
 
 ---
 
-## Statistiques GitHub
+## Compétences techniques
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heythaam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heythaam&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heythaam&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
+| Domaine | Technologies |
+|---|---|
+| IA agentique et LLM | Systèmes multi-agents, génération de code, prompt engineering, human-in-the-loop |
+| Génie logiciel | Automatisation du SDLC, spec-driven development, tests automatisés, ADR |
+| Langages | Python, Java, TypeScript, JavaScript, SQL |
+| Backend et frontend | FastAPI, Spring Boot, Spring Cloud, Spring Security, Angular |
+| Machine learning | scikit-learn, XGBoost, PyTorch, PySpark, SHAP |
+| MLOps | MLflow, Airflow, DVC, Prometheus, Grafana |
+| DevOps | Docker, Kubernetes, GitHub Actions, Jenkins, SonarQube, AWS |
+| Bases de données | PostgreSQL, MySQL, SQLite |
 
 ---
+
+## Formation
+
+**Cycle ingénieur en Génie Logiciel** — ESPRIT, Tunis *(école accréditée CTI, diplôme reconnu en France)*
+Septembre 2022 – Juin 2027
 
 ## Langues
 
-- **Arabe** — Langue maternelle
-- **Français** — Courant (B2)
-- **Anglais** — Professionnel — TOEIC 810/990 *(Novembre 2025)*
-
----
-
-## Contact
-
-<p align="center">
-  Ouvert aux opportunités de <strong>stage de fin d'études</strong> et de collaboration sur des projets innovants.
-</p>
-
-<p align="center">
-  <a href="mailto:haithem.hammami@esprit.tn">haithem.hammami@esprit.tn</a> |
-  <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/">LinkedIn</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heythaam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+Arabe (langue maternelle) · Français C1 (TCF 517/699) · Anglais professionnel (TOEIC 810/990)
