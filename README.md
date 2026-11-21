@@ -36,6 +36,22 @@ Je recherche un **stage de fin d'études (PFE) en IA agentique**, à partir de d
 
 Plateforme multi-agents qui automatise le cycle de développement logiciel de bout en bout. Chaque phase est confiée à un agent LLM spécialisé, avec une validation humaine entre les étapes.
 
+```mermaid
+flowchart LR
+    A[Cahier des charges] --> B[PRD]
+    B --> C[Architecture]
+    C --> D[Epics et<br/>user stories]
+    D --> E[Code]
+    E --> F{Tests<br/>au vert ?}
+    F -- non --> E
+    F -- oui --> G[Pull Request<br/>+ CI GitHub Actions]
+    G --> H[Conteneurisation]
+
+    H1([Validation humaine]) -.-> B
+    H1 -.-> C
+    H1 -.-> D
+```
+
 - **Génération incrémentale** : code produit story par story dans des sessions d'agent isolées, avec injection du contexte (story, critères d'acceptation, architecture). Aucun commit sans tests automatisés au vert.
 - **Human-in-the-loop** : point de validation à chaque phase, revue préalable des exigences (contradictions, manques) et escalade humaine en cas d'échec.
 - **Intégration GitHub** : création du dépôt, une branche et une Pull Request par epic, fusion conditionnée à une CI GitHub Actions réussie ; README, licence et documentation de planification générés.
@@ -63,6 +79,26 @@ Conception d'un pipeline ML complet de détection de fraude bancaire sur 6,3 mil
 ---
 
 ## Autres projets
+
+### [logtldr](https://github.com/Heythaam/logtldr) — Résumé d'incidents à partir de logs bruités
+*Novembre 2026 – en cours*
+
+<p>
+  <img src="https://img.shields.io/badge/Statut-En_développement-21262D?style=flat-square&labelColor=161B22" alt="Statut"/>
+  <img src="https://img.shields.io/badge/Mode-Local--first_(Ollama)-21262D?style=flat-square&labelColor=161B22" alt="Local-first"/>
+  <img src="https://img.shields.io/badge/Évaluation-10_cas_réels-21262D?style=flat-square&labelColor=161B22" alt="Évaluation"/>
+</p>
+
+Outil en ligne de commande qui transforme des milliers de lignes de logs (Kubernetes, Docker, CI) en un résumé d'incident court : chronologie, cause probable et points à vérifier. Le principe : **le LLM propose, le code vérifie**. Chaque affirmation est rattachée à une ligne de log exacte, et la confiance est plafonnée par des règles déterministes.
+
+
+- **Confidentialité** : masquage des clés AWS, JWT, chaînes de connexion et adresses avant tout traitement, avec des identifiants stables ; mode `--local` qui interdit tout appel réseau.
+- **Compression** : regroupement des lignes répétitives par templates (Drain3), détection de la première anomalie plutôt que de la première erreur.
+- **Refus de deviner** : pas d'appel au LLM si les logs sont sains ou trop pauvres en signal.
+- **Vérification** : chaque citation est contrôlée contre les logs ; une hypothèse sans preuve valide est écartée.
+- **Évaluation** : jeu de 10 cas (LogHub, échecs CI pytest/Docker/npm, cas trompeurs et logs sains) avec scoreur automatique.
+
+`Python` `LiteLLM` `Ollama` `Drain3` `Pydantic` `pytest`
 
 ### [NexusML](https://github.com/Heythaam/NexusML) — Plateforme de gestion du cycle de vie ML
 *2026 – en cours*
