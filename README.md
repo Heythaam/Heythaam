@@ -1,9 +1,15 @@
 # Haithem Hammami
 
-**Ingénieur logiciel — IA agentique, LLM et systèmes multi-agents**
-Élève ingénieur en dernière année, Génie Logiciel — ESPRIT (Tunis)
+<p>
+  <strong>Ingénieur logiciel — IA agentique, LLM et systèmes multi-agents</strong><br/>
+  Élève ingénieur en dernière année, Génie Logiciel — ESPRIT (Tunis)
+</p>
 
-[haithem.hammami@esprit.tn](mailto:haithem.hammami@esprit.tn) · [LinkedIn](https://www.linkedin.com/in/heytham-hammami-6a9733248/) · [GitHub](https://github.com/Heythaam)
+<p>
+  <a href="mailto:haithem.hammami@esprit.tn"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/heytham-hammami-6a9733248/"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://github.com/Heythaam"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
